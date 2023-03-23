@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Huazhong University of Science and Technology, 2018 - 2022
+* M.S. in Physics with Extended Research, Imperial College London, 2023 - 2025 (expected) 
 
 Work experience
 ======
@@ -23,9 +22,9 @@ Work experience
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
-  * Github University
+  * Baidu
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Jingbo Wang
   
 Skills
 ======
@@ -48,12 +47,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Leadership
 ======
 * Currently signed in to 43 different slack teams
