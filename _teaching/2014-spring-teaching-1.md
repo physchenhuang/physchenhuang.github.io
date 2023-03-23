@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Quantum Computing with Trapped Ions"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Quantum Computing"
+permalink: /notes/2023-notes-1
+venue: ""
+date: 2023-03-24
+location: "Beijing, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
