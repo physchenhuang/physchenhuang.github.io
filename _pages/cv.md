@@ -16,6 +16,10 @@ Education
 
 Work experience
 ======
+**Baidu**
+
+
+**International Joint Laboratory on Quantum Sensing and Quantum Metrology**
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -47,7 +51,19 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+ 
+AWARDS & HONORS
+======
+* **HUST Outstanding Graduate**, 2022
+* **Yan Ji-ci Scholarship**, 2020 | Institute of Physics, Chinese Academy of Sciences (CAS)
+* **UCAS Undergraduate Scholarship, 2020** | One of 995 undergraduates across China
+* **China National Scholarship**, 2019 | Highest honor for undergraduates in China, Top 0.2% among all undergraduates
+* **Outstanding Undergraduates in Term of Academic Performance**, 2019 | Highest honor for undergraduates at HUST, Top 1% among all sophomores and juniors
+
   
 Leadership
 ======
-* Currently signed in to 43 different slack teams
+**HUST Innovative Base of Physics Experiment (IBPE)**
+Student Leader
+* Organized the academic annual meeting of IBPE and routine seminars, including Advanced Algebra (02/2019 – 06/2019), Quantum Mechanics (12/2019 – 05/2020) and Advanced Quantum Mechanics (09/2020 – 12/2020)
+* Led freshmen to read “Feynman Physics Lectures” and participate in CUPT research, assigned tasks such as theoretical derivation, experiment design, and computer simulation every week to help them adapt to college physics learning
