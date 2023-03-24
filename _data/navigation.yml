@@ -15,8 +15,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "[CV](http://academicpages.github.io/files/Chen Huang_CV.pdf)"
-    url:
+  - title: "CV"
+    url: /files/Chen Huang_CV.pdf
     
   - title: "Guide"
     url: /markdown/
