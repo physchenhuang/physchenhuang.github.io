@@ -15,8 +15,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "[Download paper here](http://academicpages.github.io/files/paper1.pdf)"
+    url:
     
   - title: "Guide"
     url: /markdown/
