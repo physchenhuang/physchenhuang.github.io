@@ -1,27 +1,58 @@
 ---
-title: 'How to calculate $\text{e}^AB\text{e}^{-A}$'
+title: 'Operator Relations'
 date: 2021-08-14
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2020/11/operator-relations/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - math tricks
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-Headings are cool
-======
+Let 
+
 $$
 f(\lambda)=\text{e}^{\lambda A}B\text{e}^{-\lambda A}
 $$
 
+then, one can expand $f$ in Taylor series about the origin. We first evaluate the derivatives
+
 $$
-\frac{\mathrm{d}f}{\mathrm{d}\lambda}=\text{e}^A [A, B] \text{e}^{-A}
+\frac{\mathrm{d}f}{\mathrm{d}\lambda}=\text{e}^{\lambda A} [A, B] \text{e}^{-\lambda A}
 $$
 
-You can have many headings
-======
+so
 
-Aren't headings cool?
-------
+$$
+f'(0)=[A,B]
+$$
+
+Similarly
+
+$$
+\frac{\mathrm{d}^2f}{\mathrm{d}\lambda^2}=\text{e}^{\lambda A} [A, [A, B]] \text{e}^{-\lambda A}
+$$
+
+so that
+
+$$
+f''(0)=[A,[A,B]]
+$$
+
+Now, we write the Taylor’s expansion
+
+$$
+f(\lambda)=f(0)+\lambda f'(0) + \frac{\lambda^2}{n!}f''(0)+\cdots
+$$
+
+or
+
+$$
+\text{e}^{\lambda A}B\text{e}^{-\lambda A}=B+\lambda[A,B]+\frac{\lambda^2}{2!}[A,[A,B]]+\cdots
+$$
+
+A particular case is when $[A, B] = c$, where $c$ is a c-number, then
+
+$$
+\text{e}^{\lambda A}B\text{e}^{-\lambda A}=B+\lambda c
+$$
+
+in which case exp(αA) acts as a displacement operator.
