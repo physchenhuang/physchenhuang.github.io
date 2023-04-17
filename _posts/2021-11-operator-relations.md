@@ -1,6 +1,6 @@
 ---
 title: 'Operator Relations'
-date: 2021-08-14
+date: 2020-11-14
 permalink: /posts/2020/11/operator-relations/
 tags:
   - math tricks
