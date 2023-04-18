@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "about me"
+title: "Welcome to my physics world!🌌"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
