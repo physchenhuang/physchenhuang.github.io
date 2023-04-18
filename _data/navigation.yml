@@ -3,6 +3,9 @@ main:
   - title: "Notes"
     url: /notes/
         
+  - title: "Talks"
+    url: /talks/
+    
   - title: "Blog"
     url: /blog/
     
