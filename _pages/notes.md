@@ -7,7 +7,7 @@ author_profile: true
 
 
 # Physics
-[Classical Mechanics](https://physchen.com/2020/01/04/note-classical-mechanics/ "Classical Mechanics")
+[Classical Mechanics](https://physchenhuang.github.io/files/Derivation%20of%20Formulas.pdf/ "Classical Mechanics")
 
 
 
