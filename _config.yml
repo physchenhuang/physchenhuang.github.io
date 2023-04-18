@@ -13,7 +13,7 @@ logo                     : "site-logo.png"
 name                     : &name "Chen Huang"
 description              : &description "personal description"
 url                      : "https://physchenhuang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "physchenhuang/physchenhuang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Chen Huang"
   avatar           : "profile.jpeg"
-  bio              : "My bio"
+  bio              : "Hi, I'm Chen, a physics major currently studying at Imperial College London with a research focus on quantum information and computation, specifically in ion trap quantum computing. On my personal academic website, you can find my notes, blogs, and CV."
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
