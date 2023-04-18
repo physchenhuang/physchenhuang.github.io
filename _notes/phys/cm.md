@@ -1,7 +1,7 @@
 ---
 title: 'Classical Mechanics'
-date: 2020-09-23
-permalink: /phys/cm
+date: 2020-01-04
+permalink: /notes/phys/cm
 tags:
   - classical mechanics
   - notes
