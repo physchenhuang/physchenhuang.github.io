@@ -15,4 +15,4 @@ tags:
 If the embedded PDF below does not load, you can <u><a href="https://physchenhuang.github.io/files/Derivation%20of%20Formulas.pdf">download it here.</a></u>
 <br/>
 
-<embed src="https://physchenhuang.github.io/files/Derivation%20of%20Formulas.pdf" type="application/pdf" width="80%" />
+<embed src="https://physchenhuang.github.io/files/Derivation%20of%20Formulas.pdf" type="application/pdf" width="100%" />
