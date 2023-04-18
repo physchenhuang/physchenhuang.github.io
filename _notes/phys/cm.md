@@ -1,6 +1,6 @@
 ---
 title: 'Classical Mechanics'
-date: 2020-01-04
+date: 2019-11-19
 permalink: /notes/phys/cm
 tags:
   - classical mechanics
