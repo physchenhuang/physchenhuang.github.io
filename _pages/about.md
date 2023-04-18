@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello everyone! 👋 I'm so excited to introduce you to my academic website, Chen's Physics World! 🌎 My name is Chen Huang 🍊, and I'm a recent Physics graduate from Huazhong University of Science and Technology, and soon to be studying at Imperial College London. I'm thrilled to share with you all the amazing resources and insights that I've gained throughout my academic journey so far. 🤓
+Hello everyone! 👋 I'm so excited to introduce you to my academic website, [**Chen's Physics World**](https://physchenhuang.github.io/)! 🌎 My name is Chen Huang 🍊, and I'm a recent Physics graduate from Huazhong University of Science and Technology, and soon to be studying at Imperial College London. I'm thrilled to share with you all the amazing resources and insights that I've gained throughout my academic journey so far. 🤓
 
 In the [NOTES](https://physchenhuang.github.io/notes/) section of my website, you can find all of my notes from my undergraduate studies, including study notes 📚, literature notes 📖, and more! 📝 I believe that sharing knowledge is essential for growth, so I hope that these notes can be helpful to anyone who is interested in the subjects that I've studied. 🌟
 
