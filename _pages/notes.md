@@ -6,17 +6,17 @@ author_profile: true
 ---
 
 
-# Physics
-[Classical Mechanics](https://physchenhuang.github.io/notes/phys/cm "Classical Mechanics")
+## Physics
+* [Classical Mechanics](https://physchenhuang.github.io/notes/phys/cm "Classical Mechanics")
 
 
 
 
-# Math
+## Math
 
 
 
 
 
 
-# Others
+## Others
