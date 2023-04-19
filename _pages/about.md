@@ -15,7 +15,7 @@ In the [NOTES](https://physchenhuang.github.io/notes/) section of my website, yo
 
 Additionally, you can also check out some of my presentations in [TALKS](https://physchenhuang.github.io/talks/) 🎤, which cover a range of topics from my research to my personal experiences. I love exploring new ideas and presenting them in a clear and concise way, and I hope that you find these presentations to be informative and engaging. 🤩
 
-In the [POSTS](https://physchenhuang.github.io/posts/) section, you'll find some of my musings and inspiration that I've gathered along the way. As someone who is passionate about physics and quantum computing, I love exploring new ideas and concepts, and I hope that some of my posts will spark your curiosity as well. 🤔
+In the [POSTS](https://physchenhuang.github.io/year-archive/) section, you'll find some of my musings and inspiration that I've gathered along the way. As someone who is passionate about physics and quantum computing, I love exploring new ideas and concepts, and I hope that some of my posts will spark your curiosity as well. 🤔
 
 And of course, no academic website would be complete without a personal [CV](https://physchenhuang.github.io/cv/)! 📄 I'm always looking for new opportunities to learn and grow, so feel free to reach out if you think that we might be a good fit! 🤝
 
