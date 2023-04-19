@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Friendly Links"
-permalink: /link/
+permalink: /links/
 author_profile: true
 ---
 
