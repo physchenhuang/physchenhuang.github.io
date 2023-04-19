@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Notes"
+  - title: "NOTES"
     url: /notes/
         
-  - title: "Talks"
+  - title: "TALKS"
     url: /talks/
     
-  - title: "Posts"
+  - title: "POSTS"
     url: /posts/
     
   - title: "CV"
