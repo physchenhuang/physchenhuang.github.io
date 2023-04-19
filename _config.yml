@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen Huang / Physics World"
+title                    : "Chen's Physics World"
 title_separator          : "-"
 logo                     : "site-logo.png"
 name                     : &name "Chen Huang"
