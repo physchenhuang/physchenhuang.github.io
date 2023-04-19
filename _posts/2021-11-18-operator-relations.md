@@ -1,7 +1,9 @@
 ---
 title: 'Operator Relations'
-date: 2020-11-14
-permalink: /posts/2020/11/operator-relations/
+collection: posts
+permalink: /posts/2021/11/operator-relations/
+date: 2021-11-18
+location: "Wuhan, China"
 tags:
   - math tricks
 ---
