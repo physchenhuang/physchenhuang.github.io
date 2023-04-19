@@ -30,7 +30,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Chen Huang"
   avatar           : "profile.jpeg"
-  bio              : "Hi, I'm Chen 🍊, a physics major student whose research is focused on quantum information and computation, particularly in the area of ion trap quantum computing. In my physics world, you can find my notes, blogs, talks and so on. Have a good trip! "
+  bio              : "Hi, I'm Chen 🍊, a physics major student whose research is focused on quantum information and computation, particularly in the area of ion trap quantum computing. In my physics world, you can find my notes, posts, talks and so on. Have a good trip! "
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
