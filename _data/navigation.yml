@@ -9,6 +9,9 @@ main:
   - title: "POSTS"
     url: /year-archive/
     
+  - title: "PHOTOS"
+   url: /photos/
+    
   - title: "CV"
     url: /cv/
     
