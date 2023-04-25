@@ -186,6 +186,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  photos:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -226,11 +229,12 @@ defaults:
       share: true
   # _photos
   - scope:
-      layout: article
-      path: "_photos"
+      path: ""
+      type: photos
     values:
-      nav_key: photos
-      # show_date: false
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
