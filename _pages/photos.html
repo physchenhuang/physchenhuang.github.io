@@ -1,10 +1,10 @@
 ---
-layout: articles
+layout: archiev
 title: PHOTOS
 permalink: /photos/
-articles:
-  data_source: site.photos
-  type: grid
 ---
 
-<div class="article__content" markdown="1">
+  
+{% for post in site.photos reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
